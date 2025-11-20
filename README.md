@@ -40,8 +40,8 @@ A powerful Discord bot for monitoring multiple websites, perfect for companies m
 
 1. **Clone the repository:**
    ```powershell
-   git clone <repository-url>
-   cd Website_Hooker
+   git clone https://github.com/Xer0bit/Website-Monitor-Real-Time-Discord-bot.git
+   cd Website-Monitor-Real-Time-Discord-bot
    ```
 
 2. **Configure the bot:**
